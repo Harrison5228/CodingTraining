@@ -1,0 +1,5 @@
+﻿enum Identity
+{
+    Parent,
+    Child,
+}
